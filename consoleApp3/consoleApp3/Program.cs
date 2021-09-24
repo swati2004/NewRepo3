@@ -10,8 +10,7 @@ namespace consoleApp3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello");
-            CONSOLE.wRITElINE("wORLD");
+            Console.WriteLine("hello123");
         }
     }
 }
