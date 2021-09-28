@@ -35,12 +35,7 @@ namespace consoleApp3
             long totalRaidPoints;
             long totalDefencePoints;
             string teamMembers;
-            string teamMembers1234;
-
-
-
-
-
+            string teamMembers56;
 
             public Student(String name, String teamname, int noOfMatches, long totalRaidPoints, long totalDefencePoints)
             {
