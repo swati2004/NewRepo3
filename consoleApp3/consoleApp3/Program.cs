@@ -35,7 +35,7 @@ namespace consoleApp3
             long totalRaidPoints;
             long totalDefencePoints;
             string teamMembers;
-            string teamMembers3453;
+            string teamMembers1234;
 
 
 
