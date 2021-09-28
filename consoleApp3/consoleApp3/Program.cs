@@ -11,6 +11,7 @@ namespace consoleApp3
         static void Main(string[] args)
         {
             Console.WriteLine("hello123");
+            Console.WriteLine("hh23");
         }
     }
 }
