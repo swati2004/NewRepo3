@@ -35,8 +35,7 @@ namespace consoleApp3
             long totalRaidPoints;
             long totalDefencePoints;
             string teamMembers;
-            int NoOfTeamMembers;
-            float noOfBalls;
+           
 
 
 
